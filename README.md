@@ -1,267 +1,35 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm h4x</h1>
+<h3 align="center">A passionate developer from Morocco 🇲🇦 building modern digital experiences.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=H4X&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20Full%20Stack%20Development%20%7C%2015%20y%2Fo%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxyzhr&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxyzhr" /> </p>
 
-<a href="https://github.com/paradoxyzhr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+things+from+scratch;Learning+React+%2B+Three.js+%2B+GSAP;Currently+writing+an+x86+OS+in+Assembly;Full+Stack+%2B+AI+%2F+ML+%E2%80%94+one+project+at+a+time" alt="Typing SVG" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paradoxyzhr" alt="paradoxyzhr" /></a> </p>
 
-<br/>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://img.shields.io/badge/Status-Self--Taught%20Student-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%2FML-6366F1?style=for-the-badge&labelColor=1a1a2e"/>
+- 🔭 I’m currently working on [h4x os](h4x ai)
 
-<br/><br/>
+- 🌱 I’m currently learning **React, Next.js, TypeScript, Three.js, Node.js, AI development and modern web technologies.**
 
-<a href="https://github.com/paradoxyzhr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+- 👯 I’m looking to collaborate on **Open-source projects, innovative web apps and creative technology projects.**
 
-<br/><br/>
+- 🤝 I’m looking for help with **Advanced application architecture, AI-powered tools and complex interactive experiences**
 
-<img src="https://komarev.com/ghpvc/?username=paradoxyzhr&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/paradoxyzhr?style=for-the-badge&color=6366f1&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/paradoxyzhr?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Stars"/>
+- 💬 Ask me about **everything**
 
-</div>
+- 📫 How to reach me **yassinezhe2011@gmail.com**
 
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/h4xvxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4xvxd" height="30" width="40" /></a>
+<a href="https://discord.gg/h4xvxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h4xvxd" height="30" width="40" /></a>
+</p>
 
-## `01` About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-```yaml
-name: H4X
-age: 15
-status: Self-taught student, building in public
-currently_learning:
-  - Full Stack Web Development (from the ground up)
-  - x86 Operating System Development (Assembly + C)
-approach:
-  - Rebuild real UI/animation patterns to understand how they work
-  - Learn by shipping small, complete projects instead of tutorials alone
-open_to:
-  - Collaboration on beginner-friendly open source projects
-  - Feedback from more experienced developers
-```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paradoxyzhr&show_icons=true&locale=en&layout=compact" alt="paradoxyzhr" /></p>
 
-I'm 15 and teaching myself software development from scratch — no bootcamp, no formal courses beyond what's linked below. Most of what I know so far comes from taking things apart: recreating animation techniques I find impressive, rebuilding UI patterns to understand *why* they work, and — most ambitiously — writing a custom operating system for x86 in Assembly and C, starting from bare-metal boot code.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paradoxyzhr&show_icons=true&locale=en" alt="paradoxyzhr" /></p>
 
-I'm not claiming senior-level experience. This profile is a snapshot of a beginner who ships.
-
-<br/>
-
-## `02` Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,html,css,c,python" />
-
-<br/><br/>
-
-**Frontend & Animation**
-
-<img src="https://skillicons.dev/icons?i=react,threejs" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-
-<br/><br/>
-
-**Low-Level / Systems**
-
-<img src="https://img.shields.io/badge/x86_Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bare_Metal-333333?style=flat-square"/>
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-
-</div>
-
-<br/>
-
-## `03` What I'm Learning Right Now
-
-<div align="center">
-
-| Area | Where I'm At | Notes |
-|:--|:--|:--|
-| **Full Stack Dev** | Building | Recreating real portfolio & landing page patterns from scratch |
-| **Frontend Animation** | Practicing | GSAP scroll effects, Framer Motion transitions |
-| **AI / ML Fundamentals** | Completed intro track | See certifications below |
-| **OS Development** | In progress | x86, Assembly + C, bare-metal boot process |
-
-</div>
-
-> Proficiency levels here are honest self-assessments, not claims of professional-grade skill. I'm early in all of these.
-
-<br/>
-
-## `04` Featured Projects
-
-> All projects below were coded by me from scratch as learning exercises. None are deployed products with real users — they're practice builds, several still carrying demo placeholder content I built the layouts around.
-
-<details>
-<summary><b>🌀 3D Scroll Portfolio — GSAP Carousel Practice</b></summary>
-<br/>
-
-A personal portfolio layout built to practice scroll-triggered 3D animation — a horizontal project carousel that transforms in 3D space as you scroll, built entirely with GSAP's ScrollTrigger.
-
-| | |
-|:--|:--|
-| **Stack** | HTML, CSS, JavaScript, GSAP |
-| **Focus** | ScrollTrigger, 3D transforms, timeline sequencing |
-| **Status** | Practice build — demo copy not yet replaced with final content |
-| **Repository** | *Not yet published* |
-
-Main challenge was getting the 3D perspective and scroll-scrubbing to feel smooth rather than janky — a lot of trial and error with GSAP timelines and CSS transform-origin.
-
-</details>
-
-<details>
-<summary><b>🦷 AI Project Showcase Portfolio</b></summary>
-<br/>
-
-A dark-themed developer portfolio with a dedicated "AI Projects" section, including a showcased concept for an AI-powered dental Q&A landing page (mascot-driven UI, instant-answer framing).
-
-| | |
-|:--|:--|
-| **Stack** | HTML, CSS, JavaScript |
-| **Focus** | Section layout, dark UI design, project showcase structure |
-| **Status** | Practice build |
-| **Repository** | *Not yet published* |
-
-</details>
-
-<details>
-<summary><b>👋 Minimal Intro Animation</b></summary>
-<br/>
-
-A small, focused exercise: a single animated "hello" text intro on a black background — practicing subtle text-reveal timing before applying it to bigger projects.
-
-| | |
-|:--|:--|
-| **Stack** | HTML, CSS, JavaScript |
-| **Focus** | Text-reveal animation, timing, minimalism |
-| **Status** | Practice build |
-| **Repository** | *Not yet published* |
-
-</details>
-
-<details>
-<summary><b>⚛️ React Portfolio — Framer Motion Practice</b></summary>
-<br/>
-
-A "Building Products & Brands" themed portfolio built to practice React component structure alongside Framer Motion for page and element transitions.
-
-| | |
-|:--|:--|
-| **Stack** | React, Framer Motion, CSS |
-| **Focus** | Component composition, animated transitions, layout |
-| **Status** | Practice build |
-| **Repository** | *Not yet published* |
-
-</details>
-
-<details>
-<summary><b>🥤 Animated Product Landing Page (Spylt-Inspired)</b></summary>
-<br/>
-
-A protein-drink product landing page inspired by the animated e-commerce style popularized by sites like Spylt — my own design and copy, not a clone, built to practice scroll-based product reveals and micro-interactions.
-
-| | |
-|:--|:--|
-| **Stack** | HTML, CSS, JavaScript, GSAP |
-| **Focus** | Scroll-based reveals, product animation, brand-style landing pages |
-| **Status** | Practice build — needs a final unique name/branding before showcasing |
-| **Repository** | *Not yet published* |
-
-</details>
-
-<br/>
-
-## `05` OS Development — Current Deep Dive
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **Project** | Custom x86 Operating System |
-| **Language** | Assembly (x86) + C |
-| **Stage** | Early — bare-metal bootloader and fundamentals |
-| **Goal** | Understand how an OS works by building one from the boot sector up |
-
-</div>
-
-This is the project I'm most serious about right now. No frameworks, no shortcuts — just the CPU, the bootloader, and me reading a lot of documentation.
-
-<br/>
-
-## `06` Certifications
-
-<div align="center">
-
-**Google**
-
-<img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Crash_Course_on_Python-4285F4?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
-
-**Google Cloud**
-
-<img src="https://img.shields.io/badge/Generative_AI_Leader-34A853?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e"/>
-
-</div>
-
-<br/>
-
-## `07` GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=paradoxyzhr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paradoxyzhr&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxyzhr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%"/>
-
-</div>
-
-<br/>
-
-## `08` Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paradoxyzhr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/paradoxyzhr/paradoxyzhr/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br/>
-
-## `09` Connect
-
-<div align="center">
-
-<a href="https://github.com/paradoxyzhr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-
-*GitHub is the best way to reach me — feel free to open an issue or discussion on any repo.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Still learning. Still building. Still figuring it out — one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paradoxyzhr&" alt="paradoxyzhr" /></p>
